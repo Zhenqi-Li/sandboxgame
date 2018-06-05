@@ -77,6 +77,7 @@ int main() {
 			break;
 	}
 	cout << "Game Over!" << endl;
+	cout << "--------------------" << endl;
 	Show();
 
 	system("pause");
